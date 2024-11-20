@@ -8,7 +8,7 @@ export const data = [
 
 export const options = {
     chart: {
-        title: "HR Performance",
+        title: "Job Portal Dashboard",
         // subtitle: "Sales, Expenses, and Profit: 2014-2017",
     },
 };
