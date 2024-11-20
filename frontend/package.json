@@ -51,8 +51,5 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "@redux-devtools/extension": "^3.3.0"
-  },
   "proxy": "https://job-portal-backend-e03a.onrender.com/"
 }
